@@ -1,0 +1,1 @@
+The graphics package used in the padp lab is libgd by which images can be manipulated.
